@@ -1,2 +1,2 @@
-# Grid_dev
+# AluraStore-dev
 Projeto do Curso Alura
